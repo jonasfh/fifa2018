@@ -8,10 +8,9 @@
     <h3>
       <a href="webcal://calendar.google.com/calendar/ical/q5t06fq6ni9lqb2umk1l02jcnktv3t3q%40import.calendar.google.com/public/basic.ics">
         Legg til i din egen kalender</a>
-        <br/>
-        (For at kalenderen skal oppdateres etterhvert, bruk lenken ovenfor
-        når du legger denne til i din egen kalender)
     </h3>
+    (For at kalenderen skal oppdateres etterhvert, bruk lenken ovenfor
+    når du legger denne til i din egen kalender)
     <h2>
       Nedenfor vises innholdet i kalenderen:
     </h2>
