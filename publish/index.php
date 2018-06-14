@@ -6,14 +6,12 @@
   <body>
     <h1>Kalender med VM-kampene 2018</h1>
     <h3>
-      <a href="webcal://dogp.no/vm2018/calendars/vm2018.ics">Kalender</a>
-    </h3>
-    <h3>
-      <a href="https://calendar.google.com/calendar/embed?src=icaqausnab0ckfip41j7o6ne3rj0g32b%40import.calendar.google.com&ctz=Europe%2FOslo" >Google kalender</a>
+      <a href="webcal://calendar.google.com/calendar/ical/q5t06fq6ni9lqb2umk1l02jcnktv3t3q%40import.calendar.google.com/public/basic.ics">
+        Legg til i din egen kalender</a>
     </h3>
     <h2>
-      Nedenfor er selve kalenderen:
+      Nedenfor vises innholdet i kalenderen:
     </h2>
-    <iframe src="https://calendar.google.com/calendar/embed?src=icaqausnab0ckfip41j7o6ne3rj0g32b%40import.calendar.google.com&ctz=Europe%2FOslo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?src=q5t06fq6ni9lqb2umk1l02jcnktv3t3q%40import.calendar.google.com&ctz=Europe%2FOslo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   </body>
 </html>
